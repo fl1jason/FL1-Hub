@@ -1,0 +1,4 @@
+# Version: 13.6.0.12 (xcode11.2): e3c2b406d)
+# [first argument, ignore] # @/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Release/response-file.rsp
+/Library/Frameworks/Xamarin.iOS.framework/Versions/13.6.0.12/lib/mtouch/mtouch.exe \
+	'--gcc_flags=-Xlinker -sectcreate -Xlinker __TEXT -Xlinker __entitlements -Xlinker /Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Release/Entitlements.xcent' \

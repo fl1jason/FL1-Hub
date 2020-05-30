@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+			 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+			 x:Class="HuubApp.AccountPage"
+			 Title="Account">
+	<ContentPage.Content>
+        <StackLayout Spacing="0" Padding="0">
+            <TableView Intent="Settings">
+                <TableRoot>
+                    <TableSection Title="Account Settings">
+                        <EntryCell Label="User Name:" Placeholder="Enter Your User Name Here" x:Name="txtUserName" />
+                        <EntryCell Label="Email:" Placeholder="Enter Your Email Here" Keyboard="Email" x:Name="txtEmail"/>
+                    </TableSection>
+                    <TableSection Title="Notification Settings">
+                        <EntryCell Label="Twitter User:" Placeholder="@" Keyboard="Email" x:Name="txtTwitterName"/>
+                        <SwitchCell Text="Send Twitter Notifications" On="False" x:Name="chkTwitterSend"/>                
+                        <SwitchCell Text="Send Email Notifications" On="True" x:Name="chkEmailSend"/>
+                        <SwitchCell Text="Send Web Notifications" On="True" x:Name="chkWebSend"/>
+                    </TableSection>
+                    <TableSection Title="Weight Settings">
+                        <EntryCell Label="Avg. Weight:" Placeholder="Biscuit Weight in Grams" Keyboard="Numeric" x:Name="txtAvgWeight" />
+                        <EntryCell Label="Tolerance:" Placeholder="Tolerance Percentage" Keyboard="Numeric" x:Name="txtTolerance" />
+
+                        <!--
+                        <EntryCell Label="Threshold 1:" Placeholder="1 Biscuit?" Keyboard="Numeric" x:Name="txtThreshold1" />
+                        <EntryCell Label="Threshold 2:" Placeholder="4 Biscuits?" Keyboard="Numeric" x:Name="txtThreshold2" />
+                        <EntryCell Label="Threshold 3:" Placeholder="9 Biscuits?" Keyboard="Numeric" x:Name="txtThreshold3" />
+                        -->
+                    </TableSection>
+                    <TableSection Title="Display Settings">
+                        <EntryCell Label="Notifications to show:" Placeholder="5" Keyboard="Numeric" x:Name="txtNotifictionsToShow" />
+                    </TableSection>
+                    <TableSection>
+                        <EntryCell x:Name="txtMessage" />
+                    </TableSection>
+                </TableRoot>
+            </TableView>
+            <StackLayout>
+                <Button x:Name="btnSave" Text="UPDATE" TextColor="Black" />
+            </StackLayout>
+            <StackLayout>
+                <Button x:Name="btnReset" Text="RESET" TextColor="Red" />
+            </StackLayout>
+        </StackLayout>
+	</ContentPage.Content>
+</ContentPage>

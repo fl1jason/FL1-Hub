@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{3D54620E-23F2-462B-A824-B074D41BD507}|Default">
+  <MonoDevelop.Ide.ItemProperties.OneSignalNotificationServiceExtension automaticSigning="True">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam DeveloperId="7RV4R55697" TeamId="PMK9C263GK" />
+  </MonoDevelop.Ide.ItemProperties.OneSignalNotificationServiceExtension>
+  <MonoDevelop.Ide.ItemProperties.HuubApp.iOS automaticSigning="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F12B35A5-CAC4-4298-A63D-60B570A0EF01">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam DeveloperId="7RV4R55697" TeamId="PMK9C263GK" />
+  </MonoDevelop.Ide.ItemProperties.HuubApp.iOS>
+  <MonoDevelop.Ide.ItemProperties.HuubApp.Droid PreferredExecutionTarget="Android.pixel_xl_pie_9_0_api_28" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MasterDetailPageNavigation/XAML/DashboardPage.xaml.cs">
+    <Files>
+      <File FileName="MasterDetailPageNavigation/XAML/DashboardPage.xaml.cs" Line="10" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HuubApp" expanded="True">
+            <Node name="HuubApp" expanded="True" />
+            <Node name="HuubApp.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>UWP/MasterDetailPageNavigation.UWP.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

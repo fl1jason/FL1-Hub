@@ -1,0 +1,55 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jasonsammon/Projects/BiscuitTin/Xamarin/ios-samples-master/MasterDetailPage/Xamarin_Forms___MasterDetailPage/iOS/MasterDetailPageNavigation.iOS.csproj": {}
+  },
+  "projects": {
+    "/Users/jasonsammon/Projects/BiscuitTin/Xamarin/ios-samples-master/MasterDetailPage/Xamarin_Forms___MasterDetailPage/iOS/MasterDetailPageNavigation.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jasonsammon/Projects/BiscuitTin/Xamarin/ios-samples-master/MasterDetailPage/Xamarin_Forms___MasterDetailPage/iOS/MasterDetailPageNavigation.iOS.csproj",
+        "projectName": "MasterDetailPageNavigationiOS",
+        "projectPath": "/Users/jasonsammon/Projects/BiscuitTin/Xamarin/ios-samples-master/MasterDetailPage/Xamarin_Forms___MasterDetailPage/iOS/MasterDetailPageNavigation.iOS.csproj",
+        "packagesPath": "/Users/jasonsammon/.nuget/packages/",
+        "outputPath": "/Users/jasonsammon/Projects/BiscuitTin/Xamarin/ios-samples-master/MasterDetailPage/Xamarin_Forms___MasterDetailPage/iOS/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/jasonsammon/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.1.0.555618, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

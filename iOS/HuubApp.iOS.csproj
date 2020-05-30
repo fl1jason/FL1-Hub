@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">iPhoneSimulator</Platform>
+    <ProjectTypeGuids>{FEACFBD2-3405-455C-9665-78FE426C6842};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <ProjectGuid>{3D54620E-23F2-462B-A824-B074D41BD507}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>MasterDetailPageNavigation.iOS</RootNamespace>
+    <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
+    <AssemblyName>MasterDetailPageNavigationiOS</AssemblyName>
+    <NuGetPackageImportStamp />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhoneSimulator' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\iPhoneSimulator\Debug</OutputPath>
+    <DefineConstants>DEBUG;ENABLE_TEST_CLOUD;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <MtouchArch>x86_64</MtouchArch>
+    <MtouchLink>None</MtouchLink>
+    <MtouchDebug>true</MtouchDebug>
+    <MtouchProfiling>true</MtouchProfiling>
+    <MtouchHttpClientHandler>NSUrlSessionHandler</MtouchHttpClientHandler>
+    <MtouchExtraArgs>--registrar:static</MtouchExtraArgs>
+    <CodesignProvision>VS: WildCard Development</CodesignProvision>
+    <CodesignKey>iPhone Developer: Jason Sammon (NTT2YVC5WZ)</CodesignKey>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhone' ">
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\iPhone\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
+    <MtouchArch>ARM64</MtouchArch>
+    <ConsolePause>false</ConsolePause>
+    <CodesignKey>iPhone Developer: Jason Sammon (NTT2YVC5WZ)</CodesignKey>
+    <MtouchHttpClientHandler>NSUrlSessionHandler</MtouchHttpClientHandler>
+    <CodesignProvision>VS: WildCard Development</CodesignProvision>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhoneSimulator' ">
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\iPhoneSimulator\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <MtouchArch>x86_64</MtouchArch>
+    <ConsolePause>false</ConsolePause>
+    <MtouchLink>None</MtouchLink>
+    <MtouchHttpClientHandler>NSUrlSessionHandler</MtouchHttpClientHandler>
+    <CodesignProvision>VS: WildCard Development</CodesignProvision>
+    <CodesignKey>iPhone Developer: Jason Sammon (NTT2YVC5WZ)</CodesignKey>
+    <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhone' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\iPhone\Debug</OutputPath>
+    <DefineConstants>DEBUG;ENABLE_TEST_CLOUD;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <MtouchArch>ARM64</MtouchArch>
+    <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
+    <MtouchProfiling>true</MtouchProfiling>
+    <CodesignKey>iPhone Developer: Jason Sammon (NTT2YVC5WZ)</CodesignKey>
+    <MtouchDebug>true</MtouchDebug>
+    <MtouchHttpClientHandler>NSUrlSessionHandler</MtouchHttpClientHandler>
+    <CodesignProvision>VS: WildCard Development</CodesignProvision>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="4.3.0.991211" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="Xamarin.iOS" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Default.png" />
+    <BundleResource Include="Resources\Default%402x.png" />
+    <BundleResource Include="Resources\Default-568h%402x.png" />
+    <BundleResource Include="Resources\Default-Portrait.png" />
+    <BundleResource Include="Resources\Default-Portrait%402x.png" />
+    <BundleResource Include="Resources\Icon-60%403x.png" />
+    <BundleResource Include="Resources\Icon-Small%403x.png" />
+    <BundleResource Include="Resources\Icon-Small-40%403x.png" />
+    <BundleResource Include="Resources\hamburger.png" />
+    <BundleResource Include="Resources\hamburger%402x.png" />
+    <BundleResource Include="Resources\contacts.png" />
+    <BundleResource Include="Resources\contacts%402x.png" />
+    <BundleResource Include="Resources\reminders.png" />
+    <BundleResource Include="Resources\reminders%402x.png" />
+    <BundleResource Include="Resources\todo.png" />
+    <BundleResource Include="Resources\todo%402x.png" />
+    <BundleResource Include="Resources\activity%402x.png" />
+    <BundleResource Include="Resources\activiy.png" />
+    <BundleResource Include="Resources\notifications.png" />
+    <BundleResource Include="Resources\notifications%402x.png" />
+    <BundleResource Include="Resources\jason.png" />
+    <BundleResource Include="Resources\bickie-app.png" />
+    <BundleResource Include="Resources\WarwickTin.png" />
+    <BundleResource Include="Resources\EBAC1BCE-445D-43E4-83F3-4824C2010384-10264-00000B016870E564.JPG" />
+    <BundleResource Include="Resources\dashboard.png" />
+    <BundleResource Include="Resources\biscuittin.jpg" />
+    <BundleResource Include="Resources\overlay.png" />
+    <BundleResource Include="Resources\biscuit.jpg" />
+    <BundleResource Include="Resources\biscuit1.png" />
+    <BundleResource Include="Resources\biscuit2.png" />
+    <BundleResource Include="Resources\biscuit3.png" />
+    <BundleResource Include="Resources\biscuit4.png" />
+    <BundleResource Include="Resources\biscuit5.png" />
+    <BundleResource Include="Resources\biscuits.png" />
+    <BundleResource Include="Resources\scales.png" />
+    <BundleResource Include="Resources\time.png" />
+    <BundleResource Include="Resources\smile.png" />
+    <BundleResource Include="Resources\sad.png" />
+    <BundleResource Include="Resources\fl1hub.png" />
+    <BundleResource Include="Resources\team.png" />
+    <BundleResource Include="Resources\clients.png" />
+    <BundleResource Include="Resources\prospects.png" />
+    <BundleResource Include="Resources\projects.png" />
+    <BundleResource Include="Resources\tasks.png" />
+    <BundleResource Include="Resources\HubOverlay.png" />
+    <BundleResource Include="Resources\fl1.png" />
+    <BundleResource Include="Resources\alex.png" />
+    <BundleResource Include="Resources\jose.png" />
+    <BundleResource Include="Resources\niall.png" />
+    <BundleResource Include="Resources\owen.png" />
+    <BundleResource Include="Resources\pete.png" />
+    <BundleResource Include="Resources\suzy.png" />
+    <BundleResource Include="Resources\mo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <InterfaceDefinition Include="LaunchScreen.storyboard" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Info.plist" />
+    <None Include="Entitlements.plist" />
+    <None Include="Resources\upload.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Main.cs" />
+    <Compile Include="AppDelegate.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ITunesArtwork Include="iTunesArtwork" />
+    <ITunesArtwork Include="iTunesArtwork%402x" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MasterDetailPageNavigation\HuubApp.csproj">
+      <Project>{9A1ED959-56BE-48DB-BD07-545B00242318}</Project>
+      <Name>HuubApp</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OneSignalNotificationServiceExtension\OneSignalNotificationServiceExtension.csproj">
+      <IsAppExtension>true</IsAppExtension>
+      <Project>{494131AC-72D9-481F-B29F-34034FD2B4E7}</Project>
+      <Name>OneSignalNotificationServiceExtension</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\58.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\80.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\120.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\29.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\40.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\80-1.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\76.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\152.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\40-1.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\60.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\87.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\120-1.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\180.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\20.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\40-2.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\58-1.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\167.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\1024.png" />
+    <ImageAsset Include="Assets.xcassets\Image.imageset\Contents.json" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup />
+  </Target>
+</Project>

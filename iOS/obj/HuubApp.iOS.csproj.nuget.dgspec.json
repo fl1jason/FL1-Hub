@@ -1,0 +1,154 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jasonsammon/Code/C#/FL1Hub/iOS/HuubApp.iOS.csproj": {}
+  },
+  "projects": {
+    "/Users/jasonsammon/Code/C#/FL1Hub/iOS/HuubApp.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jasonsammon/Code/C#/FL1Hub/iOS/HuubApp.iOS.csproj",
+        "projectName": "MasterDetailPageNavigationiOS",
+        "projectPath": "/Users/jasonsammon/Code/C#/FL1Hub/iOS/HuubApp.iOS.csproj",
+        "packagesPath": "/Users/jasonsammon/.nuget/packages/",
+        "outputPath": "/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/jasonsammon/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {
+              "/Users/jasonsammon/Code/C#/FL1Hub/MasterDetailPageNavigation/HuubApp.csproj": {
+                "projectPath": "/Users/jasonsammon/Code/C#/FL1Hub/MasterDetailPageNavigation/HuubApp.csproj"
+              },
+              "/Users/jasonsammon/Code/C#/FL1Hub/OneSignalNotificationServiceExtension/OneSignalNotificationServiceExtension.csproj": {
+                "projectPath": "/Users/jasonsammon/Code/C#/FL1Hub/OneSignalNotificationServiceExtension/OneSignalNotificationServiceExtension.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.3.0.991211, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "/Users/jasonsammon/Code/C#/FL1Hub/MasterDetailPageNavigation/HuubApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jasonsammon/Code/C#/FL1Hub/MasterDetailPageNavigation/HuubApp.csproj",
+        "projectName": "HuubApp",
+        "projectPath": "/Users/jasonsammon/Code/C#/FL1Hub/MasterDetailPageNavigation/HuubApp.csproj",
+        "packagesPath": "/Users/jasonsammon/.nuget/packages/",
+        "outputPath": "/Users/jasonsammon/Code/C#/FL1Hub/MasterDetailPageNavigation/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/jasonsammon/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Com.OneSignal": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.3.0.991211, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jasonsammon/Code/C#/FL1Hub/OneSignalNotificationServiceExtension/OneSignalNotificationServiceExtension.csproj": {
+      "restore": {
+        "projectUniqueName": "/Users/jasonsammon/Code/C#/FL1Hub/OneSignalNotificationServiceExtension/OneSignalNotificationServiceExtension.csproj",
+        "projectName": "OneSignalNotificationServiceExtension",
+        "projectPath": "/Users/jasonsammon/Code/C#/FL1Hub/OneSignalNotificationServiceExtension/OneSignalNotificationServiceExtension.csproj",
+        "packagesPath": "/Users/jasonsammon/.nuget/packages/",
+        "projectStyle": "PackagesConfig",
+        "configFilePaths": [
+          "/Users/jasonsammon/.config/NuGet/NuGet.Config"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        },
+        "packagesConfigPath": "/Users/jasonsammon/Code/C#/FL1Hub/OneSignalNotificationServiceExtension/packages.config"
+      },
+      "frameworks": {
+        "xamarinios10": {}
+      }
+    }
+  }
+}

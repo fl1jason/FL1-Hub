@@ -1,0 +1,44 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jasonsammon/Projects/BiscuitTin/Xamarin/ios-samples-master/MasterDetailPage/Xamarin_Forms___MasterDetailPage/Droid/MasterDetailPageNavigation.Droid.csproj": {}
+  },
+  "projects": {
+    "/Users/jasonsammon/Projects/BiscuitTin/Xamarin/ios-samples-master/MasterDetailPage/Xamarin_Forms___MasterDetailPage/Droid/MasterDetailPageNavigation.Droid.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jasonsammon/Projects/BiscuitTin/Xamarin/ios-samples-master/MasterDetailPage/Xamarin_Forms___MasterDetailPage/Droid/MasterDetailPageNavigation.Droid.csproj",
+        "projectName": "MasterDetailPageNavigation.Droid",
+        "projectPath": "/Users/jasonsammon/Projects/BiscuitTin/Xamarin/ios-samples-master/MasterDetailPage/Xamarin_Forms___MasterDetailPage/Droid/MasterDetailPageNavigation.Droid.csproj",
+        "packagesPath": "/Users/jasonsammon/.nuget/packages/",
+        "outputPath": "/Users/jasonsammon/Projects/BiscuitTin/Xamarin/ios-samples-master/MasterDetailPage/Xamarin_Forms___MasterDetailPage/Droid/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/jasonsammon/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.1.0.555618, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

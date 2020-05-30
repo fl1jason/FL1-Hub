@@ -1,0 +1,444 @@
+.subsections_via_symbols
+.text
+	.align 3
+jit_code_start:
+_mono_aot_System_Drawing_Commonjit_code_start:
+	.globl _mono_aot_System_Drawing_Commonjit_code_start
+
+	.byte 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+.text
+ut_2:
+add x0, x0, 16
+b _System_Drawing_Common_System_Drawing_PointF_get_X
+ut_end:
+.section __TEXT, __const
+_unbox_trampoline_p:
+
+	.long 0
+LDIFF_SYM0=ut_end - ut_2
+	.long LDIFF_SYM0
+.text
+ut_3:
+add x0, x0, 16
+b _System_Drawing_Common_System_Drawing_PointF_get_Y
+.text
+ut_4:
+add x0, x0, 16
+b _System_Drawing_Common_System_Drawing_PointF_op_Equality_System_Drawing_PointF_System_Drawing_PointF
+.text
+ut_5:
+add x0, x0, 16
+b _System_Drawing_Common_System_Drawing_PointF_Equals_object
+.text
+ut_6:
+add x0, x0, 16
+b _System_Drawing_Common_System_Drawing_PointF_Equals_System_Drawing_PointF
+.text
+ut_7:
+add x0, x0, 16
+b _System_Drawing_Common_System_Drawing_PointF_GetHashCode
+.text
+ut_8:
+add x0, x0, 16
+b _System_Drawing_Common_System_Drawing_PointF_ToString
+.text
+ut_9:
+add x0, x0, 16
+b _System_Drawing_Common_System_Drawing_RectangleF_get_X
+.text
+ut_10:
+add x0, x0, 16
+b _System_Drawing_Common_System_Drawing_RectangleF_get_Y
+.text
+ut_11:
+add x0, x0, 16
+b _System_Drawing_Common_System_Drawing_RectangleF_get_Width
+.text
+ut_12:
+add x0, x0, 16
+b _System_Drawing_Common_System_Drawing_RectangleF_get_Height
+.text
+ut_13:
+add x0, x0, 16
+b _System_Drawing_Common_System_Drawing_RectangleF_Equals_object
+.text
+ut_14:
+add x0, x0, 16
+b _System_Drawing_Common_System_Drawing_RectangleF_Equals_System_Drawing_RectangleF
+.text
+ut_15:
+add x0, x0, 16
+b _System_Drawing_Common_System_Drawing_RectangleF_op_Equality_System_Drawing_RectangleF_System_Drawing_RectangleF
+.text
+ut_16:
+add x0, x0, 16
+b _System_Drawing_Common_System_Drawing_RectangleF_GetHashCode
+.text
+ut_17:
+add x0, x0, 16
+b _System_Drawing_Common_System_Drawing_RectangleF_ToString
+.text
+ut_18:
+add x0, x0, 16
+b _System_Drawing_Common_System_Drawing_SizeF_op_Equality_System_Drawing_SizeF_System_Drawing_SizeF
+.text
+ut_19:
+add x0, x0, 16
+b _System_Drawing_Common_System_Drawing_SizeF_get_Width
+.text
+ut_20:
+add x0, x0, 16
+b _System_Drawing_Common_System_Drawing_SizeF_get_Height
+.text
+ut_21:
+add x0, x0, 16
+b _System_Drawing_Common_System_Drawing_SizeF_Equals_object
+.text
+ut_22:
+add x0, x0, 16
+b _System_Drawing_Common_System_Drawing_SizeF_Equals_System_Drawing_SizeF
+.text
+ut_23:
+add x0, x0, 16
+b _System_Drawing_Common_System_Drawing_SizeF_GetHashCode
+.text
+ut_24:
+add x0, x0, 16
+b _System_Drawing_Common_System_Drawing_SizeF_ToString
+.text
+ut_29:
+add x0, x0, 16
+b _System_Drawing_Common_wrapper_other_System_Drawing_PointF_StructureToPtr_object_intptr_bool
+.text
+ut_30:
+add x0, x0, 16
+b _System_Drawing_Common_wrapper_other_System_Drawing_PointF_PtrToStructure_intptr_object
+.text
+ut_31:
+add x0, x0, 16
+b _System_Drawing_Common_wrapper_other_System_Drawing_RectangleF_StructureToPtr_object_intptr_bool
+.text
+ut_32:
+add x0, x0, 16
+b _System_Drawing_Common_wrapper_other_System_Drawing_RectangleF_PtrToStructure_intptr_object
+.text
+ut_33:
+add x0, x0, 16
+b _System_Drawing_Common_wrapper_other_System_Drawing_SizeF_StructureToPtr_object_intptr_bool
+.text
+ut_34:
+add x0, x0, 16
+b _System_Drawing_Common_wrapper_other_System_Drawing_SizeF_PtrToStructure_intptr_object
+.text
+	.align 3
+jit_code_end:
+_mono_aot_System_Drawing_Commonjit_code_end:
+	.globl _mono_aot_System_Drawing_Commonjit_code_end
+
+	.byte 0,0,0,0
+.no_dead_strip _System_Drawing_Common_System_Numerics_Hashing_HashHelpers_Combine_int_int
+.no_dead_strip _System_Drawing_Common_System_Drawing_SizeFConverter__ctor
+.no_dead_strip _System_Drawing_Common_System_Drawing_PointF_get_X
+.no_dead_strip _System_Drawing_Common_System_Drawing_PointF_get_Y
+.no_dead_strip _System_Drawing_Common_System_Drawing_PointF_op_Equality_System_Drawing_PointF_System_Drawing_PointF
+.no_dead_strip _System_Drawing_Common_System_Drawing_PointF_Equals_object
+.no_dead_strip _System_Drawing_Common_System_Drawing_PointF_Equals_System_Drawing_PointF
+.no_dead_strip _System_Drawing_Common_System_Drawing_PointF_GetHashCode
+.no_dead_strip _System_Drawing_Common_System_Drawing_PointF_ToString
+.no_dead_strip _System_Drawing_Common_System_Drawing_RectangleF_get_X
+.no_dead_strip _System_Drawing_Common_System_Drawing_RectangleF_get_Y
+.no_dead_strip _System_Drawing_Common_System_Drawing_RectangleF_get_Width
+.no_dead_strip _System_Drawing_Common_System_Drawing_RectangleF_get_Height
+.no_dead_strip _System_Drawing_Common_System_Drawing_RectangleF_Equals_object
+.no_dead_strip _System_Drawing_Common_System_Drawing_RectangleF_Equals_System_Drawing_RectangleF
+.no_dead_strip _System_Drawing_Common_System_Drawing_RectangleF_op_Equality_System_Drawing_RectangleF_System_Drawing_RectangleF
+.no_dead_strip _System_Drawing_Common_System_Drawing_RectangleF_GetHashCode
+.no_dead_strip _System_Drawing_Common_System_Drawing_RectangleF_ToString
+.no_dead_strip _System_Drawing_Common_System_Drawing_SizeF_op_Equality_System_Drawing_SizeF_System_Drawing_SizeF
+.no_dead_strip _System_Drawing_Common_System_Drawing_SizeF_get_Width
+.no_dead_strip _System_Drawing_Common_System_Drawing_SizeF_get_Height
+.no_dead_strip _System_Drawing_Common_System_Drawing_SizeF_Equals_object
+.no_dead_strip _System_Drawing_Common_System_Drawing_SizeF_Equals_System_Drawing_SizeF
+.no_dead_strip _System_Drawing_Common_System_Drawing_SizeF_GetHashCode
+.no_dead_strip _System_Drawing_Common_System_Drawing_SizeF_ToString
+.no_dead_strip _System_Drawing_Common_wrapper_other_System_Drawing_PointF_StructureToPtr_object_intptr_bool
+.no_dead_strip _System_Drawing_Common_wrapper_other_System_Drawing_PointF_PtrToStructure_intptr_object
+.no_dead_strip _System_Drawing_Common_wrapper_other_System_Drawing_RectangleF_StructureToPtr_object_intptr_bool
+.no_dead_strip _System_Drawing_Common_wrapper_other_System_Drawing_RectangleF_PtrToStructure_intptr_object
+.no_dead_strip _System_Drawing_Common_wrapper_other_System_Drawing_SizeF_StructureToPtr_object_intptr_bool
+.no_dead_strip _System_Drawing_Common_wrapper_other_System_Drawing_SizeF_PtrToStructure_intptr_object
+.no_dead_strip _mono_aot_System_Drawing_Commoninit_method
+.no_dead_strip _mono_aot_System_Drawing_Commoninit_method_gshared_mrgctx
+.no_dead_strip _mono_aot_System_Drawing_Commoninit_method_gshared_vtable
+.no_dead_strip _mono_aot_System_Drawing_Commoninit_method_gshared_this
+
+.text
+	.align 3
+method_addresses:
+_mono_aot_System_Drawing_Commonmethod_addresses:
+	.globl _mono_aot_System_Drawing_Commonmethod_addresses
+	.no_dead_strip method_addresses
+bl _System_Drawing_Common_System_Numerics_Hashing_HashHelpers_Combine_int_int
+bl _System_Drawing_Common_System_Drawing_SizeFConverter__ctor
+bl _System_Drawing_Common_System_Drawing_PointF_get_X
+bl _System_Drawing_Common_System_Drawing_PointF_get_Y
+bl _System_Drawing_Common_System_Drawing_PointF_op_Equality_System_Drawing_PointF_System_Drawing_PointF
+bl _System_Drawing_Common_System_Drawing_PointF_Equals_object
+bl _System_Drawing_Common_System_Drawing_PointF_Equals_System_Drawing_PointF
+bl _System_Drawing_Common_System_Drawing_PointF_GetHashCode
+bl _System_Drawing_Common_System_Drawing_PointF_ToString
+bl _System_Drawing_Common_System_Drawing_RectangleF_get_X
+bl _System_Drawing_Common_System_Drawing_RectangleF_get_Y
+bl _System_Drawing_Common_System_Drawing_RectangleF_get_Width
+bl _System_Drawing_Common_System_Drawing_RectangleF_get_Height
+bl _System_Drawing_Common_System_Drawing_RectangleF_Equals_object
+bl _System_Drawing_Common_System_Drawing_RectangleF_Equals_System_Drawing_RectangleF
+bl _System_Drawing_Common_System_Drawing_RectangleF_op_Equality_System_Drawing_RectangleF_System_Drawing_RectangleF
+bl _System_Drawing_Common_System_Drawing_RectangleF_GetHashCode
+bl _System_Drawing_Common_System_Drawing_RectangleF_ToString
+bl _System_Drawing_Common_System_Drawing_SizeF_op_Equality_System_Drawing_SizeF_System_Drawing_SizeF
+bl _System_Drawing_Common_System_Drawing_SizeF_get_Width
+bl _System_Drawing_Common_System_Drawing_SizeF_get_Height
+bl _System_Drawing_Common_System_Drawing_SizeF_Equals_object
+bl _System_Drawing_Common_System_Drawing_SizeF_Equals_System_Drawing_SizeF
+bl _System_Drawing_Common_System_Drawing_SizeF_GetHashCode
+bl _System_Drawing_Common_System_Drawing_SizeF_ToString
+bl method_addresses
+bl method_addresses
+bl method_addresses
+bl method_addresses
+bl _System_Drawing_Common_wrapper_other_System_Drawing_PointF_StructureToPtr_object_intptr_bool
+bl _System_Drawing_Common_wrapper_other_System_Drawing_PointF_PtrToStructure_intptr_object
+bl _System_Drawing_Common_wrapper_other_System_Drawing_RectangleF_StructureToPtr_object_intptr_bool
+bl _System_Drawing_Common_wrapper_other_System_Drawing_RectangleF_PtrToStructure_intptr_object
+bl _System_Drawing_Common_wrapper_other_System_Drawing_SizeF_StructureToPtr_object_intptr_bool
+bl _System_Drawing_Common_wrapper_other_System_Drawing_SizeF_PtrToStructure_intptr_object
+bl _mono_aot_System_Drawing_Commoninit_method
+bl _mono_aot_System_Drawing_Commoninit_method_gshared_mrgctx
+bl _mono_aot_System_Drawing_Commoninit_method_gshared_vtable
+bl _mono_aot_System_Drawing_Commoninit_method_gshared_this
+method_addresses_end:
+
+.section __TEXT, __const
+	.align 3
+unbox_trampolines:
+_mono_aot_System_Drawing_Commonunbox_trampolines:
+	.globl _mono_aot_System_Drawing_Commonunbox_trampolines
+
+	.long 2,3,4,5,6,7,8,9
+	.long 10,11,12,13,14,15,16,17
+	.long 18,19,20,21,22,23,24,29
+	.long 30,31,32,33,34
+unbox_trampolines_end:
+_mono_aot_System_Drawing_Commonunbox_trampolines_end:
+	.globl _mono_aot_System_Drawing_Commonunbox_trampolines_end
+
+	.long 0
+.text
+	.align 3
+unbox_trampoline_addresses:
+_mono_aot_System_Drawing_Commonunbox_trampoline_addresses:
+	.globl _mono_aot_System_Drawing_Commonunbox_trampoline_addresses
+bl ut_2
+bl ut_3
+bl ut_4
+bl ut_5
+bl ut_6
+bl ut_7
+bl ut_8
+bl ut_9
+bl ut_10
+bl ut_11
+bl ut_12
+bl ut_13
+bl ut_14
+bl ut_15
+bl ut_16
+bl ut_17
+bl ut_18
+bl ut_19
+bl ut_20
+bl ut_21
+bl ut_22
+bl ut_23
+bl ut_24
+bl ut_29
+bl ut_30
+bl ut_31
+bl ut_32
+bl ut_33
+bl ut_34
+
+	.long 0
+.section __TEXT, __const
+	.align 3
+unwind_info:
+_mono_aot_System_Drawing_Commonunwind_info:
+	.globl _mono_aot_System_Drawing_Commonunwind_info
+
+	.byte 0
+
+.text
+	.align 4
+plt:
+_mono_aot_System_Drawing_Commonplt:
+	.globl _mono_aot_System_Drawing_Commonplt
+mono_aot_System_Drawing_Common_plt:
+_p_1_plt_System_Drawing_Common__jit_icall_llvm_throw_corlib_exception_abs_trampoline_llvm:
+	.globl _p_1_plt_System_Drawing_Common__jit_icall_llvm_throw_corlib_exception_abs_trampoline_llvm
+.private_extern _p_1_plt_System_Drawing_Common__jit_icall_llvm_throw_corlib_exception_abs_trampoline_llvm
+	.no_dead_strip plt_System_Drawing_Common__jit_icall_llvm_throw_corlib_exception_abs_trampoline
+plt_System_Drawing_Common__jit_icall_llvm_throw_corlib_exception_abs_trampoline:
+_p_1:
+adrp x16, mono_aot_System_Drawing_Common_got@PAGE+0
+add x16, x16, mono_aot_System_Drawing_Common_got@PAGEOFF
+ldr x16, [x16, #248]
+br x16
+.word 207
+_p_2_plt_System_Drawing_Common_System_Drawing_PointF_Equals_System_Drawing_PointF_llvm:
+	.globl _p_2_plt_System_Drawing_Common_System_Drawing_PointF_Equals_System_Drawing_PointF_llvm
+.private_extern _p_2_plt_System_Drawing_Common_System_Drawing_PointF_Equals_System_Drawing_PointF_llvm
+	.no_dead_strip plt_System_Drawing_Common_System_Drawing_PointF_Equals_System_Drawing_PointF
+plt_System_Drawing_Common_System_Drawing_PointF_Equals_System_Drawing_PointF:
+_p_2:
+adrp x16, mono_aot_System_Drawing_Common_got@PAGE+0
+add x16, x16, mono_aot_System_Drawing_Common_got@PAGEOFF
+ldr x16, [x16, #256]
+br x16
+.word 210
+_p_3_plt_System_Drawing_Common_System_Drawing_PointF_op_Equality_System_Drawing_PointF_System_Drawing_PointF_llvm:
+	.globl _p_3_plt_System_Drawing_Common_System_Drawing_PointF_op_Equality_System_Drawing_PointF_System_Drawing_PointF_llvm
+.private_extern _p_3_plt_System_Drawing_Common_System_Drawing_PointF_op_Equality_System_Drawing_PointF_System_Drawing_PointF_llvm
+	.no_dead_strip plt_System_Drawing_Common_System_Drawing_PointF_op_Equality_System_Drawing_PointF_System_Drawing_PointF
+plt_System_Drawing_Common_System_Drawing_PointF_op_Equality_System_Drawing_PointF_System_Drawing_PointF:
+_p_3:
+adrp x16, mono_aot_System_Drawing_Common_got@PAGE+0
+add x16, x16, mono_aot_System_Drawing_Common_got@PAGEOFF
+ldr x16, [x16, #264]
+br x16
+.word 212
+_p_4_plt_System_Drawing_Common_single_GetHashCode_llvm:
+	.globl _p_4_plt_System_Drawing_Common_single_GetHashCode_llvm
+.private_extern _p_4_plt_System_Drawing_Common_single_GetHashCode_llvm
+	.no_dead_strip plt_System_Drawing_Common_single_GetHashCode
+plt_System_Drawing_Common_single_GetHashCode:
+_p_4:
+adrp x16, mono_aot_System_Drawing_Common_got@PAGE+0
+add x16, x16, mono_aot_System_Drawing_Common_got@PAGEOFF
+ldr x16, [x16, #272]
+br x16
+.word 214
+_p_5_plt_System_Drawing_Common_wrapper_alloc_object_AllocVector_intptr_intptr_llvm:
+	.globl _p_5_plt_System_Drawing_Common_wrapper_alloc_object_AllocVector_intptr_intptr_llvm
+.private_extern _p_5_plt_System_Drawing_Common_wrapper_alloc_object_AllocVector_intptr_intptr_llvm
+	.no_dead_strip plt_System_Drawing_Common_wrapper_alloc_object_AllocVector_intptr_intptr
+plt_System_Drawing_Common_wrapper_alloc_object_AllocVector_intptr_intptr:
+_p_5:
+adrp x16, mono_aot_System_Drawing_Common_got@PAGE+0
+add x16, x16, mono_aot_System_Drawing_Common_got@PAGEOFF
+ldr x16, [x16, #280]
+br x16
+.word 219
+_p_6_plt_System_Drawing_Common_single_ToString_llvm:
+	.globl _p_6_plt_System_Drawing_Common_single_ToString_llvm
+.private_extern _p_6_plt_System_Drawing_Common_single_ToString_llvm
+	.no_dead_strip plt_System_Drawing_Common_single_ToString
+plt_System_Drawing_Common_single_ToString:
+_p_6:
+adrp x16, mono_aot_System_Drawing_Common_got@PAGE+0
+add x16, x16, mono_aot_System_Drawing_Common_got@PAGEOFF
+ldr x16, [x16, #288]
+br x16
+.word 227
+_p_7_plt_System_Drawing_Common_string_Concat_string___llvm:
+	.globl _p_7_plt_System_Drawing_Common_string_Concat_string___llvm
+.private_extern _p_7_plt_System_Drawing_Common_string_Concat_string___llvm
+	.no_dead_strip plt_System_Drawing_Common_string_Concat_string__
+plt_System_Drawing_Common_string_Concat_string__:
+_p_7:
+adrp x16, mono_aot_System_Drawing_Common_got@PAGE+0
+add x16, x16, mono_aot_System_Drawing_Common_got@PAGEOFF
+ldr x16, [x16, #296]
+br x16
+.word 232
+_p_8_plt_System_Drawing_Common_System_Drawing_RectangleF_Equals_System_Drawing_RectangleF_llvm:
+	.globl _p_8_plt_System_Drawing_Common_System_Drawing_RectangleF_Equals_System_Drawing_RectangleF_llvm
+.private_extern _p_8_plt_System_Drawing_Common_System_Drawing_RectangleF_Equals_System_Drawing_RectangleF_llvm
+	.no_dead_strip plt_System_Drawing_Common_System_Drawing_RectangleF_Equals_System_Drawing_RectangleF
+plt_System_Drawing_Common_System_Drawing_RectangleF_Equals_System_Drawing_RectangleF:
+_p_8:
+adrp x16, mono_aot_System_Drawing_Common_got@PAGE+0
+add x16, x16, mono_aot_System_Drawing_Common_got@PAGEOFF
+ldr x16, [x16, #304]
+br x16
+.word 237
+_p_9_plt_System_Drawing_Common_System_Drawing_RectangleF_op_Equality_System_Drawing_RectangleF_System_Drawing_RectangleF_llvm:
+	.globl _p_9_plt_System_Drawing_Common_System_Drawing_RectangleF_op_Equality_System_Drawing_RectangleF_System_Drawing_RectangleF_llvm
+.private_extern _p_9_plt_System_Drawing_Common_System_Drawing_RectangleF_op_Equality_System_Drawing_RectangleF_System_Drawing_RectangleF_llvm
+	.no_dead_strip plt_System_Drawing_Common_System_Drawing_RectangleF_op_Equality_System_Drawing_RectangleF_System_Drawing_RectangleF
+plt_System_Drawing_Common_System_Drawing_RectangleF_op_Equality_System_Drawing_RectangleF_System_Drawing_RectangleF:
+_p_9:
+adrp x16, mono_aot_System_Drawing_Common_got@PAGE+0
+add x16, x16, mono_aot_System_Drawing_Common_got@PAGEOFF
+ldr x16, [x16, #312]
+br x16
+.word 239
+_p_10_plt_System_Drawing_Common_System_Drawing_SizeF_Equals_System_Drawing_SizeF_llvm:
+	.globl _p_10_plt_System_Drawing_Common_System_Drawing_SizeF_Equals_System_Drawing_SizeF_llvm
+.private_extern _p_10_plt_System_Drawing_Common_System_Drawing_SizeF_Equals_System_Drawing_SizeF_llvm
+	.no_dead_strip plt_System_Drawing_Common_System_Drawing_SizeF_Equals_System_Drawing_SizeF
+plt_System_Drawing_Common_System_Drawing_SizeF_Equals_System_Drawing_SizeF:
+_p_10:
+adrp x16, mono_aot_System_Drawing_Common_got@PAGE+0
+add x16, x16, mono_aot_System_Drawing_Common_got@PAGEOFF
+ldr x16, [x16, #320]
+br x16
+.word 241
+_p_11_plt_System_Drawing_Common_System_Drawing_SizeF_op_Equality_System_Drawing_SizeF_System_Drawing_SizeF_llvm:
+	.globl _p_11_plt_System_Drawing_Common_System_Drawing_SizeF_op_Equality_System_Drawing_SizeF_System_Drawing_SizeF_llvm
+.private_extern _p_11_plt_System_Drawing_Common_System_Drawing_SizeF_op_Equality_System_Drawing_SizeF_System_Drawing_SizeF_llvm
+	.no_dead_strip plt_System_Drawing_Common_System_Drawing_SizeF_op_Equality_System_Drawing_SizeF_System_Drawing_SizeF
+plt_System_Drawing_Common_System_Drawing_SizeF_op_Equality_System_Drawing_SizeF_System_Drawing_SizeF:
+_p_11:
+adrp x16, mono_aot_System_Drawing_Common_got@PAGE+0
+add x16, x16, mono_aot_System_Drawing_Common_got@PAGEOFF
+ldr x16, [x16, #328]
+br x16
+.word 243
+plt_end:
+_mono_aot_System_Drawing_Commonplt_end:
+	.globl _mono_aot_System_Drawing_Commonplt_end
+.section __DATA, __bss
+	.align 3
+jit_got:
+_mono_aot_System_Drawing_Commonjit_got:
+	.globl _mono_aot_System_Drawing_Commonjit_got
+.lcomm mono_aot_System_Drawing_Common_got, 336
+got_end:
+.section __TEXT, __const
+	.align 3
+Lglobals_hash:
+
+	.short 11, 0, 0, 0, 0, 0, 0, 0
+	.short 0, 0, 0, 0, 0, 1, 0, 0
+	.short 0, 0, 0, 0, 0, 0, 0
+.section __TEXT, __const
+	.align 2
+name_0:
+	.asciz "_unbox_trampoline_p"
+.data
+	.align 3
+globals:
+_mono_aot_System_Drawing_Commonglobals:
+	.globl _mono_aot_System_Drawing_Commonglobals
+	.align 3
+	.quad Lglobals_hash
+	.align 3
+	.quad name_0
+	.align 3
+	.quad _unbox_trampoline_p
+
+	.long 0,0
+.text
+	.align 3
+mem_end:

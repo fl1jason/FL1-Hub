@@ -1,0 +1,16 @@
+/Users/jasonsammon/Projects/BiscuitTin/Xamarin/ios-samples-master/MasterDetailPage/Xamarin_Forms___MasterDetailPage/MasterDetailPageNavigation/bin/Debug/netstandard2.0/MasterDetailPageNavigation.deps.json
+/Users/jasonsammon/Projects/BiscuitTin/Xamarin/ios-samples-master/MasterDetailPage/Xamarin_Forms___MasterDetailPage/MasterDetailPageNavigation/bin/Debug/netstandard2.0/MasterDetailPageNavigation.dll
+/Users/jasonsammon/Projects/BiscuitTin/Xamarin/ios-samples-master/MasterDetailPage/Xamarin_Forms___MasterDetailPage/MasterDetailPageNavigation/bin/Debug/netstandard2.0/MasterDetailPageNavigation.pdb
+/Users/jasonsammon/Projects/BiscuitTin/Xamarin/ios-samples-master/MasterDetailPage/Xamarin_Forms___MasterDetailPage/MasterDetailPageNavigation/obj/Debug/netstandard2.0/XAML/AccountPage.xaml.g.cs
+/Users/jasonsammon/Projects/BiscuitTin/Xamarin/ios-samples-master/MasterDetailPage/Xamarin_Forms___MasterDetailPage/MasterDetailPageNavigation/obj/Debug/netstandard2.0/XAML/ActivityPage.xaml.g.cs
+/Users/jasonsammon/Projects/BiscuitTin/Xamarin/ios-samples-master/MasterDetailPage/Xamarin_Forms___MasterDetailPage/MasterDetailPageNavigation/obj/Debug/netstandard2.0/XAML/ContactsPage.xaml.g.cs
+/Users/jasonsammon/Projects/BiscuitTin/Xamarin/ios-samples-master/MasterDetailPage/Xamarin_Forms___MasterDetailPage/MasterDetailPageNavigation/obj/Debug/netstandard2.0/XAML/MainPage.xaml.g.cs
+/Users/jasonsammon/Projects/BiscuitTin/Xamarin/ios-samples-master/MasterDetailPage/Xamarin_Forms___MasterDetailPage/MasterDetailPageNavigation/obj/Debug/netstandard2.0/XAML/MasterPage.xaml.g.cs
+/Users/jasonsammon/Projects/BiscuitTin/Xamarin/ios-samples-master/MasterDetailPage/Xamarin_Forms___MasterDetailPage/MasterDetailPageNavigation/obj/Debug/netstandard2.0/XAML/NotificationsPage.xaml.g.cs
+/Users/jasonsammon/Projects/BiscuitTin/Xamarin/ios-samples-master/MasterDetailPage/Xamarin_Forms___MasterDetailPage/MasterDetailPageNavigation/obj/Debug/netstandard2.0/XAML/ReminderPage.xaml.g.cs
+/Users/jasonsammon/Projects/BiscuitTin/Xamarin/ios-samples-master/MasterDetailPage/Xamarin_Forms___MasterDetailPage/MasterDetailPageNavigation/obj/Debug/netstandard2.0/XAML/TodoListPage.xaml.g.cs
+/Users/jasonsammon/Projects/BiscuitTin/Xamarin/ios-samples-master/MasterDetailPage/Xamarin_Forms___MasterDetailPage/MasterDetailPageNavigation/obj/Debug/netstandard2.0/MasterDetailPageNavigation.AssemblyInfoInputs.cache
+/Users/jasonsammon/Projects/BiscuitTin/Xamarin/ios-samples-master/MasterDetailPage/Xamarin_Forms___MasterDetailPage/MasterDetailPageNavigation/obj/Debug/netstandard2.0/MasterDetailPageNavigation.AssemblyInfo.cs
+/Users/jasonsammon/Projects/BiscuitTin/Xamarin/ios-samples-master/MasterDetailPage/Xamarin_Forms___MasterDetailPage/MasterDetailPageNavigation/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/jasonsammon/Projects/BiscuitTin/Xamarin/ios-samples-master/MasterDetailPage/Xamarin_Forms___MasterDetailPage/MasterDetailPageNavigation/obj/Debug/netstandard2.0/MasterDetailPageNavigation.dll
+/Users/jasonsammon/Projects/BiscuitTin/Xamarin/ios-samples-master/MasterDetailPage/Xamarin_Forms___MasterDetailPage/MasterDetailPageNavigation/obj/Debug/netstandard2.0/MasterDetailPageNavigation.pdb

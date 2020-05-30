@@ -1,0 +1,38 @@
+MonoTouch: Could not install sigaction override, unexpected sigaction implementation.
+2019-12-17 20:18:47.467381+0000 MasterDetailPageNavigationiOS[11118:119108] 
+Unhandled Exception:
+ObjCRuntime.RuntimeException: Failed to lookup the required marshalling information.
+Additional information:
+	Selector: oneSignalApplicationDidBecomeActive:
+	Type: AppDelegate
+ ---> ObjCRuntime.RuntimeException: Cannot get the method descriptor for the selector 'oneSignalApplicationDidBecomeActive:' on the type 'HuubApp.iOS.AppDelegate', because the selector does not correspond to a method
+  at Registrar.DynamicRegistrar.GetMethodNoThrow (System.Type original_type, System.Type type, System.String selector, System.Boolean is_static) [0x0008d] in <e139e7c752b84c85bc1cc3eeae1725fa>:0 
+  at Registrar.DynamicRegistrar.GetMethodNoThrow (System.Type original_type, System.Type type, System.String selector, System.Boolean is_static) [0x00058] in <e139e7c752b84c85bc1cc3eeae1725fa>:0 
+  at Registrar.DynamicRegistrar.GetMethodNoThrow (System.Type original_type, System.Type type, System.String selector, System.Boolean is_static) [0x00058] in <e139e7c752b84c85bc1cc3eeae1725fa>:0 
+  at Registrar.DynamicRegistrar.GetMethodNoThrow (System.Type original_type, System.Type type, System.String selector, System.Boolean is_static) [0x00058] in <e139e7c752b84c85bc1cc3eeae1725fa>:0 
+  at Registrar.DynamicRegistrar.GetMethodDescriptionAndObject (System.Type type, System.IntPtr selector, System.Boolean is_static, System.IntPtr obj, System.IntPtr& mthis, System.IntPtr desc) [0x00007] in <e139e7c752b84c85bc1cc3eeae1725fa>:0 
+  at ObjCRuntime.Runtime.GetMethodAndObjectForSelector (System.IntPtr klass, System.IntPtr sel, System.Boolean is_static, System.IntPtr obj, System.IntPtr& mthis, System.IntPtr desc) [0x0000b] in <e139e7c752b84c85bc1cc3eeae1725fa>:0 
+  at ObjCRuntime.Runtime.get_method_and_object_for_selector (System.IntPtr cls, System.IntPtr sel, System.Boolean is_static, System.IntPtr obj, System.IntPtr& mthis, System.IntPtr desc, System.Int32& exception_gchandle) [0x00004] in <e139e7c752b84c85bc1cc3eeae1725fa>:0 
+   --- End of inner exception stack trace ---
+  at (wrapper managed-to-native) UIKit.UIApplication.UIApplicationMain(int,string[],intptr,intptr)
+  at UIKit.UIApplication.Main (System.String[] args, System.IntPtr principal, System.IntPtr delegate) [0x00005] in <e139e7c752b84c85bc1cc3eeae1725fa>:0 
+  at UIKit.UIApplication.Main (System.String[] args, System.String principalClassName, System.String delegateClassName) [0x0000e] in <e139e7c752b84c85bc1cc3eeae1725fa>:0 
+  at HuubApp.iOS.Application.Main (System.String[] args) [0x00000] in <b6a6cd6ae57c43cfb06e9123dc5167ef>:0
+2019-12-17 20:18:47.468484+0000 MasterDetailPageNavigationiOS[11118:119108] Unhandled managed exception: Failed to lookup the required marshalling information.
+Additional information:
+	Selector: oneSignalApplicationDidBecomeActive:
+	Type: AppDelegate
+ (ObjCRuntime.RuntimeException)
+  at (wrapper managed-to-native) UIKit.UIApplication.UIApplicationMain(int,string[],intptr,intptr)
+  at UIKit.UIApplication.Main (System.String[] args, System.IntPtr principal, System.IntPtr delegate) [0x00005] in <e139e7c752b84c85bc1cc3eeae1725fa>:0 
+  at UIKit.UIApplication.Main (System.String[] args, System.String principalClassName, System.String delegateClassName) [0x0000e] in <e139e7c752b84c85bc1cc3eeae1725fa>:0 
+  at HuubApp.iOS.Application.Main (System.String[] args) [0x00000] in <b6a6cd6ae57c43cfb06e9123dc5167ef>:0 
+ --- inner exception ---
+Cannot get the method descriptor for the selector 'oneSignalApplicationDidBecomeActive:' on the type 'HuubApp.iOS.AppDelegate', because the selector does not correspond to a method (ObjCRuntime.RuntimeException)
+  at Registrar.DynamicRegistrar.GetMethodNoThrow (System.Type original_type, System.Type type, System.String selector, System.Boolean is_static) [0x0008d] in <e139e7c752b84c85bc1cc3eeae1725fa>:0 
+  at Registrar.DynamicRegistrar.GetMethodNoThrow (System.Type original_type, System.Type type, System.String selector, System.Boolean is_static) [0x00058] in <e139e7c752b84c85bc1cc3eeae1725fa>:0 
+  at Registrar.DynamicRegistrar.GetMethodNoThrow (System.Type original_type, System.Type type, System.String selector, System.Boolean is_static) [0x00058] in <e139e7c752b84c85bc1cc3eeae1725fa>:0 
+  at Registrar.DynamicRegistrar.GetMethodNoThrow (System.Type original_type, System.Type type, System.String selector, System.Boolean is_static) [0x00058] in <e139e7c752b84c85bc1cc3eeae1725fa>:0 
+  at Registrar.DynamicRegistrar.GetMethodDescriptionAndObject (System.Type type, System.IntPtr selector, System.Boolean is_static, System.IntPtr obj, System.IntPtr& mthis, System.IntPtr desc) [0x00007] in <e139e7c752b84c85bc1cc3eeae1725fa>:0 
+  at ObjCRuntime.Runtime.GetMethodAndObjectForSelector (System.IntPtr klass, System.IntPtr sel, System.Boolean is_static, System.IntPtr obj, System.IntPtr& mthis, System.IntPtr desc) [0x0000b] in <e139e7c752b84c85bc1cc3eeae1725fa>:0 
+  at ObjCRuntime.Runtime.get_method_and_object_for_selector (System.IntPtr cls, System.IntPtr sel, System.Boolean is_static, System.IntPtr obj, System.IntPtr& mthis, System.IntPtr desc, System.Int32& exception_gchandle) [0x00004] in <e139e7c752b84c85bc1cc3eeae1725fa>:0

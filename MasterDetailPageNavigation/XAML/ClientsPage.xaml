@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HuubApp.ClientsPage"
+             Title="Clients">
+    <StackLayout Margin="20,35,20,20">
+        <ListView ItemsSource="{Binding ClientList}"
+          HasUnevenRows="true"
+          ItemSelected="OnListViewItemSelected"
+          ItemTapped="OnListViewItemTapped"
+          x:Name="notificationList" >
+    <ListView.ItemTemplate>
+        <DataTemplate>
+            <ViewCell>
+                <Grid Padding="10">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <Frame CornerRadius="30" 
+                       HeightRequest="60"
+                       WidthRequest="60"
+                       HorizontalOptions="Center"
+                       Padding="0"
+                       IsClippedToBounds="True"
+                           Grid.RowSpan="2">
+                        <Image 
+                               Source="{Binding image_src}"
+                               Aspect="AspectFill"
+                               HeightRequest="60"
+                               WidthRequest="60" />
+                         </Frame>
+                    <Label Grid.Column="1"
+                           Text="{Binding title}"
+                           FontAttributes="Bold"
+                           Margin="10,0"/>
+                    <Label Grid.Row="1"
+                           Grid.Column="1"
+                           Text="St Albans"
+                           VerticalOptions="End"
+                        Margin="10,0" />
+                </Grid>
+            </ViewCell>
+        </DataTemplate>
+    </ListView.ItemTemplate>
+</ListView>
+    </StackLayout>
+</ContentPage>

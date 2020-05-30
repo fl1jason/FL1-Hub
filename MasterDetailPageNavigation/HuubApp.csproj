@@ -1,0 +1,60 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugType>full</DebugType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="4.3.0.991211" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Com.OneSignal" Version="3.6.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="XAML\ContactsPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="XAML\MainPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="XAML\MasterPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="XAML\ReminderPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="XAML\TodoListPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Resources\" />
+    <Folder Include="API\" />
+    <Folder Include="Objects\" />
+    <Folder Include="WordPress\" />
+    <Folder Include="UI\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Resources\samjas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="CS\AccountPageCS.cs" />
+    <Compile Remove="CS\ActivityPageCS.cs" />
+    <Compile Remove="CS\ContactsPageCS.cs" />
+    <Compile Remove="CS\MasterPageCS.cs" />
+    <Compile Remove="CS\MainPageCS.cs" />
+    <Compile Remove="CS\NotificationsPageCS.cs" />
+    <Compile Remove="CS\ReminderPageCS.cs" />
+    <Compile Remove="CS\TodoListPageCS.cs" />
+    <Compile Remove="XAML\TodoListPage %28copy%29.xaml.cs" />
+    <Compile Remove="XAML\ProjectsPage %28copy%29.xaml.cs" />
+    <Compile Remove="XAML\ProjectsPage %28copy%29.xaml.cs" />
+    <Compile Remove="XAML\ProjectsPage %28copy%29.xaml.cs" />
+    <Compile Remove="WordPress\Client.cs" />
+  </ItemGroup>
+</Project>

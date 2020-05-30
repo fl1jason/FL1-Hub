@@ -1,0 +1,226 @@
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/MasterDetailPageNavigationiOS.exe
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/MasterDetailPageNavigationiOS.pdb
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/pt-br/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/HuubApp.dll
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/HuubApp.pdb
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/HuubApp.iOS.csprojAssemblyReference.cache
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/HuubApp.iOS.csproj.CopyComplete
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/MasterDetailPageNavigationiOS.exe
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/MasterDetailPageNavigationiOS.pdb
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/Com.OneSignal.Abstractions.dll
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/Com.OneSignal.Abstractions.pdb
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/Com.OneSignal.dll
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/Com.OneSignal.pdb
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/OneSignal.iOS.Binding.dll
+/Users/jasonsammon/Projects/FL1Hub/iOS/bin/iPhoneSimulator/Debug/OneSignal.iOS.Binding.pdb
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/actool/_PartialAppManifest.items
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/actool/_BundleResourceWithLogicalName.items
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/coremlc/_PartialAppManifest.items
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/coremlc/_BundleResourceWithLogicalName.items
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/Default.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/Default@2x.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/Default-568h@2x.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/Default-Portrait.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/Default-Portrait@2x.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/Icon-60@3x.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/Icon-Small@3x.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/Icon-Small-40@3x.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/hamburger.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/hamburger@2x.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/contacts.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/contacts@2x.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/reminders.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/reminders@2x.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/todo.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/todo@2x.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/activity@2x.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/activiy.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/notifications.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/notifications@2x.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/jason.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/bickie-app.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/WarwickTin.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/dashboard.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/overlay.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/biscuit1.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/biscuit2.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/biscuit3.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/biscuit4.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/biscuit5.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/biscuits.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/scales.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/time.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/smile.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/sad.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/fl1hub.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/team.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/clients.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/prospects.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/projects.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/tasks.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/HubOverlay.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/fl1.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/alex.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/jose.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/niall.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/owen.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/pete.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/suzy.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/mo.png
+/Users/jasonsammon/Projects/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.3/optimized/
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/MasterDetailPageNavigationiOS.exe
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/MasterDetailPageNavigationiOS.pdb
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/Com.OneSignal.Abstractions.dll
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/Com.OneSignal.Abstractions.pdb
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/Com.OneSignal.dll
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/Com.OneSignal.pdb
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/OneSignal.iOS.Binding.dll
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/OneSignal.iOS.Binding.pdb
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/pt-br/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/HuubApp.dll
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/bin/iPhoneSimulator/Debug/HuubApp.pdb
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/actool/_PartialAppManifest.items
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/actool/_BundleResourceWithLogicalName.items
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/coremlc/_PartialAppManifest.items
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/coremlc/_BundleResourceWithLogicalName.items
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/Default.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/Default@2x.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/Default-568h@2x.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/Default-Portrait.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/Default-Portrait@2x.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/Icon-60@3x.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/Icon-Small@3x.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/Icon-Small-40@3x.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/hamburger.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/hamburger@2x.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/contacts.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/contacts@2x.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/reminders.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/reminders@2x.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/todo.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/todo@2x.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/activity@2x.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/activiy.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/notifications.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/notifications@2x.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/jason.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/bickie-app.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/WarwickTin.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/dashboard.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/overlay.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/biscuit1.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/biscuit2.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/biscuit3.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/biscuit4.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/biscuit5.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/biscuits.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/scales.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/time.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/smile.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/sad.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/fl1hub.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/team.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/clients.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/prospects.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/projects.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/tasks.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/HubOverlay.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/fl1.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/alex.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/jose.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/niall.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/owen.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/pete.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/suzy.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/mo.png
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/HuubApp.iOS.csprojAssemblyReference.cache
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/HuubApp.iOS.csproj.CopyComplete
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/MasterDetailPageNavigationiOS.exe
+/Users/jasonsammon/Code/C#/FL1Hub/iOS/obj/iPhoneSimulator/Debug/MasterDetailPageNavigationiOS.pdb

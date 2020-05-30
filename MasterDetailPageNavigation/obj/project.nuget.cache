@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "iVyupVpE4J2W/4qIwxYtllGBqSkInnlHiwH8lkiJ9zRYwVUjmVbz6jFjx4MLzHLebrodo9+pTSdgF2LQ9jYnGw==",
+  "success": true,
+  "projectFilePath": "/Users/jasonsammon/Code/C#/FL1Hub/MasterDetailPageNavigation/HuubApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/jasonsammon/.nuget/packages/com.onesignal/3.6.0/com.onesignal.3.6.0.nupkg.sha512",
+    "/Users/jasonsammon/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/jasonsammon/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/jasonsammon/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/jasonsammon/.nuget/packages/xamarin.forms/4.3.0.991211/xamarin.forms.4.3.0.991211.nupkg.sha512"
+  ],
+  "logs": []
+}

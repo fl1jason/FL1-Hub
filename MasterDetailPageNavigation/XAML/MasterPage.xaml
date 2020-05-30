@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+			 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="using:HuubApp"
+			 x:Class="HuubApp.MasterPage"
+			 Padding="0,40,0,0"
+			 IconImageSource="hamburger.png"
+			 Title="FL1 Hub">
+    <StackLayout>
+        <ListView x:Name="listView" x:FieldModifier="public">
+           <ListView.ItemsSource>
+                <x:Array Type="{x:Type local:MasterPageItem}">
+                    <local:MasterPageItem Title="Dashboard" IconSource="dashboard.png" TargetType="{x:Type local:DashboardPage}" />
+                    <local:MasterPageItem Title="Team" IconSource="team.png" TargetType="{x:Type local:TeamPage}" />
+                    <local:MasterPageItem Title="Account" IconSource="contacts.png" TargetType="{x:Type local:AccountPage}" />
+                    <local:MasterPageItem Title="Tasks" IconSource="tasks.png" TargetType="{x:Type local:TasksPage}" />                    
+                    <local:MasterPageItem Title="Projects" IconSource="projects.png" TargetType="{x:Type local:ProjectsPage}" />
+                    <local:MasterPageItem Title="Clients" IconSource="clients.png" TargetType="{x:Type local:ClientsPage}" />
+                    <local:MasterPageItem Title="Prospects" IconSource="prospects.png" TargetType="{x:Type local:ActivityPage}" />
+                    <local:MasterPageItem Title="Notifcations" IconSource="notifications.png" TargetType="{x:Type local:NotificationsPage}" />
+                </x:Array>
+            </ListView.ItemsSource>
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Grid Padding="5,10">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="30"/>
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <Image Source="{Binding IconSource}" />
+                            <Label Grid.Column="1" Text="{Binding Title}" />
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>

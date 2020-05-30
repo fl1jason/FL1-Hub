@@ -1,0 +1,36 @@
+Function=SystemNative_ConvertErrorPlatformToPal
+	/Users/jasonsammon/Projects/FL1Hub/OneSignalNotificationServiceExtension/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ConvertErrorPalToPlatform
+	/Users/jasonsammon/Projects/FL1Hub/OneSignalNotificationServiceExtension/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_StrErrorR
+	/Users/jasonsammon/Projects/FL1Hub/OneSignalNotificationServiceExtension/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/jasonsammon/Projects/FL1Hub/OneSignalNotificationServiceExtension/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Stat2
+	/Users/jasonsammon/Projects/FL1Hub/OneSignalNotificationServiceExtension/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LStat2
+	/Users/jasonsammon/Projects/FL1Hub/OneSignalNotificationServiceExtension/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/jasonsammon/Projects/FL1Hub/OneSignalNotificationServiceExtension/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/jasonsammon/Projects/FL1Hub/OneSignalNotificationServiceExtension/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/jasonsammon/Projects/FL1Hub/OneSignalNotificationServiceExtension/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/jasonsammon/Projects/FL1Hub/OneSignalNotificationServiceExtension/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/jasonsammon/Projects/FL1Hub/OneSignalNotificationServiceExtension/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/jasonsammon/Projects/FL1Hub/OneSignalNotificationServiceExtension/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_OneSignal
+	/Users/jasonsammon/Projects/FL1Hub/OneSignalNotificationServiceExtension/obj/iPhone/Release/mtouch-cache/1-Link/OneSignal.iOS.Binding.dll
+ObjectiveCClass=OBJC_CLASS_$_OSInAppMessageAction
+	/Users/jasonsammon/Projects/FL1Hub/OneSignalNotificationServiceExtension/obj/iPhone/Release/mtouch-cache/1-Link/OneSignal.iOS.Binding.dll
+ObjectiveCClass=OBJC_CLASS_$_OSNotification
+	/Users/jasonsammon/Projects/FL1Hub/OneSignalNotificationServiceExtension/obj/iPhone/Release/mtouch-cache/1-Link/OneSignal.iOS.Binding.dll
+ObjectiveCClass=OBJC_CLASS_$_OSNotificationAction
+	/Users/jasonsammon/Projects/FL1Hub/OneSignalNotificationServiceExtension/obj/iPhone/Release/mtouch-cache/1-Link/OneSignal.iOS.Binding.dll
+ObjectiveCClass=OBJC_CLASS_$_OSNotificationOpenedResult
+	/Users/jasonsammon/Projects/FL1Hub/OneSignalNotificationServiceExtension/obj/iPhone/Release/mtouch-cache/1-Link/OneSignal.iOS.Binding.dll
+ObjectiveCClass=OBJC_CLASS_$_OSNotificationPayload
+	/Users/jasonsammon/Projects/FL1Hub/OneSignalNotificationServiceExtension/obj/iPhone/Release/mtouch-cache/1-Link/OneSignal.iOS.Binding.dll

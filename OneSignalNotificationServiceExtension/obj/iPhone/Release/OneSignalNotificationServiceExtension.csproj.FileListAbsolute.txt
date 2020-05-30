@@ -1,0 +1,17 @@
+/Users/jasonsammon/Projects/FL1Hub/OneSignalNotificationServiceExtension/bin/iPhone/Release/OneSignalNotificationServiceExtension.dll
+/Users/jasonsammon/Projects/FL1Hub/OneSignalNotificationServiceExtension/bin/iPhone/Release/OneSignalNotificationServiceExtension.pdb
+/Users/jasonsammon/Projects/FL1Hub/OneSignalNotificationServiceExtension/bin/iPhone/Release/Com.OneSignal.Abstractions.dll
+/Users/jasonsammon/Projects/FL1Hub/OneSignalNotificationServiceExtension/bin/iPhone/Release/Com.OneSignal.dll
+/Users/jasonsammon/Projects/FL1Hub/OneSignalNotificationServiceExtension/bin/iPhone/Release/OneSignal.iOS.Binding.dll
+/Users/jasonsammon/Projects/FL1Hub/OneSignalNotificationServiceExtension/bin/iPhone/Release/Com.OneSignal.Abstractions.pdb
+/Users/jasonsammon/Projects/FL1Hub/OneSignalNotificationServiceExtension/bin/iPhone/Release/Com.OneSignal.pdb
+/Users/jasonsammon/Projects/FL1Hub/OneSignalNotificationServiceExtension/bin/iPhone/Release/OneSignal.iOS.Binding.pdb
+/Users/jasonsammon/Projects/FL1Hub/OneSignalNotificationServiceExtension/obj/iPhone/Release/actool/_PartialAppManifest.items
+/Users/jasonsammon/Projects/FL1Hub/OneSignalNotificationServiceExtension/obj/iPhone/Release/actool/_BundleResourceWithLogicalName.items
+/Users/jasonsammon/Projects/FL1Hub/OneSignalNotificationServiceExtension/obj/iPhone/Release/coremlc/_PartialAppManifest.items
+/Users/jasonsammon/Projects/FL1Hub/OneSignalNotificationServiceExtension/obj/iPhone/Release/coremlc/_BundleResourceWithLogicalName.items
+/Users/jasonsammon/Projects/FL1Hub/OneSignalNotificationServiceExtension/obj/iPhone/Release/optimized/
+/Users/jasonsammon/Projects/FL1Hub/OneSignalNotificationServiceExtension/obj/iPhone/Release/OneSignalNotificationServiceExtension.csprojAssemblyReference.cache
+/Users/jasonsammon/Projects/FL1Hub/OneSignalNotificationServiceExtension/obj/iPhone/Release/OneSignalNotificationServiceExtension.csproj.CopyComplete
+/Users/jasonsammon/Projects/FL1Hub/OneSignalNotificationServiceExtension/obj/iPhone/Release/OneSignalNotificationServiceExtension.dll
+/Users/jasonsammon/Projects/FL1Hub/OneSignalNotificationServiceExtension/obj/iPhone/Release/OneSignalNotificationServiceExtension.pdb
